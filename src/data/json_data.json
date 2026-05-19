@@ -1,10 +1,10 @@
 {
     "status": true,
-    "count": 20,
+    "count": 27,
     "total_records": 27,
-    "total_pages": 2,
+    "total_pages": 1,
     "current_page": 1,
-    "limit": 20,
+    "limit": 100,
     "workouts": [
         {
             "id": 20160356,
@@ -6676,6 +6676,2707 @@
                         {
                             "id": "381185629",
                             "weight": "25.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20003661,
+            "title": "Morning workout \u2600\ufe0f",
+            "body_weight": null,
+            "workout_perform_date": "2026-03-08 18:52:00",
+            "total_volume": 12620,
+            "totalLiftedWeight": 12620,
+            "user": {
+                "username": "Varinder Singh"
+            },
+            "exercises": [
+                {
+                    "exercise_id": "3439",
+                    "excercise_name": "Run on Treadmill ",
+                    "exercise_type": "distance_duration",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/21971101-Run-on-Treadmill-(female)_Cardio_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": 0,
+                            "weight": null,
+                            "reps": null,
+                            "rir": null,
+                            "duration": "10:13",
+                            "distance": 1,
+                            "set_type_id": 0,
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1745",
+                    "excercise_name": "Dumbbell Biceps Curl",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/02941101-Dumbbell-Biceps-Curl_Upper-Arms_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185546",
+                            "weight": "15.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185547",
+                            "weight": "15.000",
+                            "reps": "15",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185548",
+                            "weight": "15.000",
+                            "reps": "15",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "146",
+                    "excercise_name": "Lunge",
+                    "exercise_type": "db_2_alt_legs",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/03361101-Dumbbell-Lunge_Hips_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185549",
+                            "weight": "15.000",
+                            "reps": "15",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185550",
+                            "weight": "15.000",
+                            "reps": "16",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "4",
+                            "record_level": "2",
+                            "record_value": "16"
+                        },
+                        {
+                            "id": "381185551",
+                            "weight": "15.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1877",
+                    "excercise_name": "Dumbbell Standing Overhead Press",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/04261101-Dumbbell-Standing-Overhead-Press_shoulder_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185552",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185553",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1868",
+                    "excercise_name": "Dumbbell Standing Calf Raise",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/04171101-Dumbbell-Standing-Calf-Raise_Calf_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185554",
+                            "weight": "20.000",
+                            "reps": "20",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185555",
+                            "weight": "20.000",
+                            "reps": "20",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185556",
+                            "weight": "20.000",
+                            "reps": "20",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "376",
+                    "excercise_name": "Romanian Deadlift",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/14591101-Dumbbell-Romanian-Deadlift_Hips_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185557",
+                            "weight": "15.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185558",
+                            "weight": "15.000",
+                            "reps": "15",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "469848",
+                    "excercise_name": "Seated Cable Row - V Grip (Cable)",
+                    "exercise_type": "",
+                    "exercise_image": "",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185559",
+                            "weight": "90.000",
+                            "reps": "15",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,3",
+                            "record_level": "2,2",
+                            "record_value": "135,1350"
+                        },
+                        {
+                            "id": "381185560",
+                            "weight": "90.000",
+                            "reps": "15",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,3",
+                            "record_level": "3,3",
+                            "record_value": "135,1350"
+                        },
+                        {
+                            "id": "381185561",
+                            "weight": "100.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1601",
+                    "excercise_name": "Cable Bar Lateral Pulldown",
+                    "exercise_type": "weight_reps",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/01501101-Cable-Bar-Lateral-Pulldown_Back_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185562",
+                            "weight": "80.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185563",
+                            "weight": "80.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1",
+                            "record_level": "1",
+                            "record_value": "112"
+                        },
+                        {
+                            "id": "381185564",
+                            "weight": "80.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20003662,
+            "title": "Morning workout \u2600\ufe0f",
+            "body_weight": null,
+            "workout_perform_date": "2026-03-01 17:44:00",
+            "total_volume": 10835,
+            "totalLiftedWeight": 10835,
+            "user": {
+                "username": "Varinder Singh"
+            },
+            "exercises": [
+                {
+                    "exercise_id": "3439",
+                    "excercise_name": "Run on Treadmill ",
+                    "exercise_type": "distance_duration",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/21971101-Run-on-Treadmill-(female)_Cardio_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": 0,
+                            "weight": null,
+                            "reps": null,
+                            "rir": null,
+                            "duration": "10:57",
+                            "distance": 0.65,
+                            "set_type_id": 0,
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1745",
+                    "excercise_name": "Dumbbell Biceps Curl",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/02941101-Dumbbell-Biceps-Curl_Upper-Arms_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185566",
+                            "weight": "15.000",
+                            "reps": "15",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185567",
+                            "weight": "15.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185568",
+                            "weight": "15.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185569",
+                            "weight": "15.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "469846",
+                    "excercise_name": "Sumo Squat (Kettlebell)",
+                    "exercise_type": "",
+                    "exercise_image": "",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185570",
+                            "weight": "25.000",
+                            "reps": "15",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,3,4",
+                            "record_level": "3,3,1",
+                            "record_value": "38,375,15"
+                        },
+                        {
+                            "id": "381185571",
+                            "weight": "25.000",
+                            "reps": "15",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "4",
+                            "record_level": "2",
+                            "record_value": "15"
+                        },
+                        {
+                            "id": "381185572",
+                            "weight": "25.000",
+                            "reps": "15",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "4",
+                            "record_level": "3",
+                            "record_value": "15"
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1868",
+                    "excercise_name": "Dumbbell Standing Calf Raise",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/04171101-Dumbbell-Standing-Calf-Raise_Calf_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185573",
+                            "weight": "15.000",
+                            "reps": "20",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185574",
+                            "weight": "25.000",
+                            "reps": "25",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185575",
+                            "weight": "35.000",
+                            "reps": "30",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,2",
+                            "record_level": "1,1",
+                            "record_value": "70,35.000"
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1883",
+                    "excercise_name": "Dumbbell Stiff Leg Deadlift",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/04321101-Dumbbell-Stiff-Leg-Deadlift_Waist_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185576",
+                            "weight": "15.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185577",
+                            "weight": "25.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,2,3",
+                            "record_level": "1,3,2",
+                            "record_value": "35,25.000,300"
+                        },
+                        {
+                            "id": "381185578",
+                            "weight": "15.000",
+                            "reps": "15",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "4",
+                            "record_level": "2",
+                            "record_value": "15"
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1763",
+                    "excercise_name": "Dumbbell Hammer Curl ",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/03121101-Dumbbell-Hammer-Curl-II_Upper-Arms_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185579",
+                            "weight": "15.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185580",
+                            "weight": "15.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185581",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1785",
+                    "excercise_name": "Dumbbell Lateral Raise",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/03341101-Dumbbell-Lateral-Raise_shoulder-AFIX_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185582",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185583",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185584",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1832",
+                    "excercise_name": "Dumbbell Rear Lunge",
+                    "exercise_type": "db_2_alt_legs",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/03811101-Dumbbell-Rear-Lunge_Thighs_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185585",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1",
+                            "record_level": "1",
+                            "record_value": "20"
+                        },
+                        {
+                            "id": "381185586",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185587",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20003671,
+            "title": "Afternoon workout \ud83d\udcaa",
+            "body_weight": null,
+            "workout_perform_date": "2026-02-17 01:22:00",
+            "total_volume": 8785,
+            "totalLiftedWeight": 8785,
+            "user": {
+                "username": "Varinder Singh"
+            },
+            "exercises": [
+                {
+                    "exercise_id": "469851",
+                    "excercise_name": "Hiking",
+                    "exercise_type": "distance_duration",
+                    "exercise_image": "",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": 0,
+                            "weight": null,
+                            "reps": null,
+                            "rir": null,
+                            "duration": "10:01",
+                            "distance": 0.89,
+                            "set_type_id": 0,
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1745",
+                    "excercise_name": "Dumbbell Biceps Curl",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/02941101-Dumbbell-Biceps-Curl_Upper-Arms_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185760",
+                            "weight": "15.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185761",
+                            "weight": "15.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185762",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1763",
+                    "excercise_name": "Dumbbell Hammer Curl ",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/03121101-Dumbbell-Hammer-Curl-II_Upper-Arms_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185763",
+                            "weight": "15.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185764",
+                            "weight": "15.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185765",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1868",
+                    "excercise_name": "Dumbbell Standing Calf Raise",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/04171101-Dumbbell-Standing-Calf-Raise_Calf_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185766",
+                            "weight": "30.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185767",
+                            "weight": "30.000",
+                            "reps": "20",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185768",
+                            "weight": "30.000",
+                            "reps": "30",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "469846",
+                    "excercise_name": "Sumo Squat (Kettlebell)",
+                    "exercise_type": "",
+                    "exercise_image": "",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185769",
+                            "weight": "25.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185770",
+                            "weight": "25.000",
+                            "reps": "15",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185771",
+                            "weight": "25.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1883",
+                    "excercise_name": "Dumbbell Stiff Leg Deadlift",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/04321101-Dumbbell-Stiff-Leg-Deadlift_Waist_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185772",
+                            "weight": "25.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,3",
+                            "record_level": "3,3",
+                            "record_value": "33,250"
+                        },
+                        {
+                            "id": "381185773",
+                            "weight": "15.000",
+                            "reps": "15",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "4",
+                            "record_level": "3",
+                            "record_value": "15"
+                        },
+                        {
+                            "id": "381185774",
+                            "weight": "20.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "469845",
+                    "excercise_name": "Single Arm Tricep Extension (Dumbbell)",
+                    "exercise_type": "",
+                    "exercise_image": "",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185775",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185776",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185777",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185778",
+                            "weight": "10.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185779",
+                            "weight": "10.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185780",
+                            "weight": "10.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20003667,
+            "title": "Morning workout \u2600\ufe0f",
+            "body_weight": null,
+            "workout_perform_date": "2026-02-15 17:33:00",
+            "total_volume": 8580,
+            "totalLiftedWeight": 8580,
+            "user": {
+                "username": "Varinder Singh"
+            },
+            "exercises": [
+                {
+                    "exercise_id": "469850",
+                    "excercise_name": "Walking",
+                    "exercise_type": "distance_duration",
+                    "exercise_image": "",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": 0,
+                            "weight": null,
+                            "reps": null,
+                            "rir": null,
+                            "duration": "11:00",
+                            "distance": 1,
+                            "set_type_id": 0,
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "469846",
+                    "excercise_name": "Sumo Squat (Kettlebell)",
+                    "exercise_type": "",
+                    "exercise_image": "",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185675",
+                            "weight": "25.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185676",
+                            "weight": "25.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185677",
+                            "weight": "25.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1868",
+                    "excercise_name": "Dumbbell Standing Calf Raise",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/04171101-Dumbbell-Standing-Calf-Raise_Calf_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185678",
+                            "weight": "30.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185679",
+                            "weight": "30.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185680",
+                            "weight": "30.000",
+                            "reps": "16",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1745",
+                    "excercise_name": "Dumbbell Biceps Curl",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/02941101-Dumbbell-Biceps-Curl_Upper-Arms_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185681",
+                            "weight": "20.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185682",
+                            "weight": "15.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185683",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1883",
+                    "excercise_name": "Dumbbell Stiff Leg Deadlift",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/04321101-Dumbbell-Stiff-Leg-Deadlift_Waist_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185684",
+                            "weight": "20.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185685",
+                            "weight": "20.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185686",
+                            "weight": "20.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1763",
+                    "excercise_name": "Dumbbell Hammer Curl ",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/03121101-Dumbbell-Hammer-Curl-II_Upper-Arms_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185687",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185688",
+                            "weight": "15.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185689",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "469845",
+                    "excercise_name": "Single Arm Tricep Extension (Dumbbell)",
+                    "exercise_type": "",
+                    "exercise_image": "",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185690",
+                            "weight": "15.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185691",
+                            "weight": "15.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185692",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185693",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "146",
+                    "excercise_name": "Lunge",
+                    "exercise_type": "db_2_alt_legs",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/03361101-Dumbbell-Lunge_Hips_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185694",
+                            "weight": "15.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185695",
+                            "weight": "15.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185696",
+                            "weight": "15.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20003666,
+            "title": "Afternoon workout \ud83d\udcaa",
+            "body_weight": null,
+            "workout_perform_date": "2026-02-06 22:00:00",
+            "total_volume": 16620,
+            "totalLiftedWeight": 16620,
+            "user": {
+                "username": "Varinder Singh"
+            },
+            "exercises": [
+                {
+                    "exercise_id": "469848",
+                    "excercise_name": "Seated Cable Row - V Grip (Cable)",
+                    "exercise_type": "",
+                    "exercise_image": "",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185648",
+                            "weight": "100.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1",
+                            "record_level": "2",
+                            "record_value": "140"
+                        },
+                        {
+                            "id": "381185649",
+                            "weight": "100.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1",
+                            "record_level": "3",
+                            "record_value": "140"
+                        },
+                        {
+                            "id": "381185650",
+                            "weight": "90.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1601",
+                    "excercise_name": "Cable Bar Lateral Pulldown",
+                    "exercise_type": "weight_reps",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/01501101-Cable-Bar-Lateral-Pulldown_Back_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185651",
+                            "weight": "70.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "4",
+                            "record_level": "3",
+                            "record_value": "12"
+                        },
+                        {
+                            "id": "381185652",
+                            "weight": "80.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,3",
+                            "record_level": "3,3",
+                            "record_value": "112,960"
+                        },
+                        {
+                            "id": "381185653",
+                            "weight": "80.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "469846",
+                    "excercise_name": "Sumo Squat (Kettlebell)",
+                    "exercise_type": "",
+                    "exercise_image": "",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185654",
+                            "weight": "25.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185655",
+                            "weight": "25.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185656",
+                            "weight": "25.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1763",
+                    "excercise_name": "Dumbbell Hammer Curl ",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/03121101-Dumbbell-Hammer-Curl-II_Upper-Arms_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185657",
+                            "weight": "15.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185658",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185659",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1868",
+                    "excercise_name": "Dumbbell Standing Calf Raise",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/04171101-Dumbbell-Standing-Calf-Raise_Calf_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185660",
+                            "weight": "30.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185661",
+                            "weight": "30.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185662",
+                            "weight": "30.000",
+                            "reps": "16",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1883",
+                    "excercise_name": "Dumbbell Stiff Leg Deadlift",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/04321101-Dumbbell-Stiff-Leg-Deadlift_Waist_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185663",
+                            "weight": "15.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185664",
+                            "weight": "15.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185665",
+                            "weight": "20.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1785",
+                    "excercise_name": "Dumbbell Lateral Raise",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/03341101-Dumbbell-Lateral-Raise_shoulder-AFIX_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185666",
+                            "weight": "20.000",
+                            "reps": "8",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,2,3",
+                            "record_level": "1,2,1",
+                            "record_value": "25,20.000,160"
+                        },
+                        {
+                            "id": "381185667",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185668",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "146",
+                    "excercise_name": "Lunge",
+                    "exercise_type": "db_2_alt_legs",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/03361101-Dumbbell-Lunge_Hips_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185669",
+                            "weight": "15.000",
+                            "reps": "20",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "4",
+                            "record_level": "1",
+                            "record_value": "20"
+                        },
+                        {
+                            "id": "381185670",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "3507",
+                    "excercise_name": "Lever Seated Leg Press",
+                    "exercise_type": "weight_reps",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/22671101-Lever-Seated-Leg-Press_Thighs_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185671",
+                            "weight": "70.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185672",
+                            "weight": "100.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,2,3",
+                            "record_level": "3,3,3",
+                            "record_value": "140,100.000,1200"
+                        },
+                        {
+                            "id": "381185673",
+                            "weight": "100.000",
+                            "reps": "12",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20003673,
+            "title": "Afternoon workout \ud83d\udcaa",
+            "body_weight": null,
+            "workout_perform_date": "2026-02-02 01:45:00",
+            "total_volume": 12300,
+            "totalLiftedWeight": 12300,
+            "user": {
+                "username": "Varinder Singh"
+            },
+            "exercises": [
+                {
+                    "exercise_id": "469846",
+                    "excercise_name": "Sumo Squat (Kettlebell)",
+                    "exercise_type": "",
+                    "exercise_image": "",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185803",
+                            "weight": "20.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185804",
+                            "weight": "20.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185805",
+                            "weight": "20.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1868",
+                    "excercise_name": "Dumbbell Standing Calf Raise",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/04171101-Dumbbell-Standing-Calf-Raise_Calf_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185806",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185807",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185808",
+                            "weight": "30.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185809",
+                            "weight": "30.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1832",
+                    "excercise_name": "Dumbbell Rear Lunge",
+                    "exercise_type": "db_2_alt_legs",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/03811101-Dumbbell-Rear-Lunge_Thighs_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185810",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185811",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185812",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "146",
+                    "excercise_name": "Lunge",
+                    "exercise_type": "db_2_alt_legs",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/03361101-Dumbbell-Lunge_Hips_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185813",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185814",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185815",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1883",
+                    "excercise_name": "Dumbbell Stiff Leg Deadlift",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/04321101-Dumbbell-Stiff-Leg-Deadlift_Waist_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185816",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185817",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185818",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1745",
+                    "excercise_name": "Dumbbell Biceps Curl",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/02941101-Dumbbell-Biceps-Curl_Upper-Arms_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185819",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185820",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185821",
+                            "weight": "15.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "469848",
+                    "excercise_name": "Seated Cable Row - V Grip (Cable)",
+                    "exercise_type": "",
+                    "exercise_image": "",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185822",
+                            "weight": "70.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185823",
+                            "weight": "100.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185824",
+                            "weight": "100.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "3854",
+                    "excercise_name": "Cable Lateral Pulldown with V-bar",
+                    "exercise_type": "weight_reps",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/26161101-Cable-Lateral-Pulldown-with-V-bar_Back_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185825",
+                            "weight": "100.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,2,3,4",
+                            "record_level": "1,2,1,3",
+                            "record_value": "133,100.000,1000,10"
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1601",
+                    "excercise_name": "Cable Bar Lateral Pulldown",
+                    "exercise_type": "weight_reps",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/01501101-Cable-Bar-Lateral-Pulldown_Back_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185826",
+                            "weight": "70.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185827",
+                            "weight": "100.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,2,3",
+                            "record_level": "1,1,2",
+                            "record_value": "133,100.000,1000"
+                        },
+                        {
+                            "id": "381185828",
+                            "weight": "90.000",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,2",
+                            "record_level": "2,2",
+                            "record_value": "120,90.000"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20003672,
+            "title": "Pull Day \ud83c\udfcb\ud83c\udffd",
+            "body_weight": null,
+            "workout_perform_date": "2026-01-19 18:21:00",
+            "total_volume": 12699.7,
+            "totalLiftedWeight": 12699.7,
+            "user": {
+                "username": "Varinder Singh"
+            },
+            "exercises": [
+                {
+                    "exercise_id": "1601",
+                    "excercise_name": "Cable Bar Lateral Pulldown",
+                    "exercise_type": "weight_reps",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/01501101-Cable-Bar-Lateral-Pulldown_Back_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185781",
+                            "weight": "79.370",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185782",
+                            "weight": "79.370",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185783",
+                            "weight": "79.370",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "469848",
+                    "excercise_name": "Seated Cable Row - V Grip (Cable)",
+                    "exercise_type": "",
+                    "exercise_image": "",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185784",
+                            "weight": "79.370",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185785",
+                            "weight": "79.370",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185786",
+                            "weight": "79.370",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1766",
+                    "excercise_name": "Dumbbell Incline Biceps Curl",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/03151101-Dumbbell-Incline-Biceps-Curl_Upper-Arms_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185787",
+                            "weight": "22.050",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,3,4",
+                            "record_level": "2,3,3",
+                            "record_value": "29,220.5,10"
+                        },
+                        {
+                            "id": "381185788",
+                            "weight": "22.050",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,2",
+                            "record_level": "3,2",
+                            "record_value": "29,22.050"
+                        },
+                        {
+                            "id": "381185789",
+                            "weight": "33.070",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,2,3",
+                            "record_level": "1,1,1",
+                            "record_value": "44,33.070,330.7"
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1572",
+                    "excercise_name": "Barbell Upright Row ",
+                    "exercise_type": "weight_reps",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/01211101-Barbell-Upright-Row-(without-weight)_Shoulders_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185790",
+                            "weight": "22.050",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1",
+                            "record_level": "1",
+                            "record_value": "29"
+                        },
+                        {
+                            "id": "381185791",
+                            "weight": "22.050",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185792",
+                            "weight": "22.050",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "1868",
+                    "excercise_name": "Dumbbell Standing Calf Raise",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/04171101-Dumbbell-Standing-Calf-Raise_Calf_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185793",
+                            "weight": "55.120",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,2",
+                            "record_level": "1,1",
+                            "record_value": "73,55.120"
+                        },
+                        {
+                            "id": "381185794",
+                            "weight": "55.120",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,2",
+                            "record_level": "2,2",
+                            "record_value": "73,55.120"
+                        },
+                        {
+                            "id": "381185795",
+                            "weight": "55.120",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,2",
+                            "record_level": "3,3",
+                            "record_value": "73,55.120"
+                        },
+                        {
+                            "id": "381185796",
+                            "weight": "55.120",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "469852",
+                    "excercise_name": "Triceps Kickback (Cable)",
+                    "exercise_type": "",
+                    "exercise_image": "",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185797",
+                            "weight": "22.050",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1",
+                            "record_level": "1",
+                            "record_value": "29"
+                        },
+                        {
+                            "id": "381185798",
+                            "weight": "22.050",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "381185799",
+                            "weight": "22.050",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": "469843",
+                    "excercise_name": "Rear Delt Reverse Fly (Cable)",
+                    "exercise_type": "",
+                    "exercise_image": "",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "381185800",
+                            "weight": "22.050",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,2",
+                            "record_level": "2,2",
+                            "record_value": "29,22.050"
+                        },
+                        {
+                            "id": "381185801",
+                            "weight": "22.050",
+                            "reps": "10",
+                            "rir": null,
+                            "duration": null,
+                            "distance": null,
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,2",
+                            "record_level": "3,3",
+                            "record_value": "29,22.050"
+                        },
+                        {
+                            "id": "381185802",
+                            "weight": "22.050",
                             "reps": "10",
                             "rir": null,
                             "duration": null,

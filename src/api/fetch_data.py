@@ -6,7 +6,7 @@ class FetchData:
 
     def __init__(self):
         self.token = LYFTA_API_KEY
-        self.url = "https://my.lyfta.app/api/v1/workouts"
+        self.url = "https://my.lyfta.app/api/v1/workouts?limit=100"
         self.headers = {
             "Authorization": f"Bearer {self.token}"
         }
