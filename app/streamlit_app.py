@@ -51,13 +51,12 @@ recommender = WorkoutRecommender(df)
 
 
 # ---------------------------
-# NAVIGATION (ONLY ONCE)
+# NAVIGATION
 # ---------------------------
 page = st.sidebar.radio(
     "Navigation",
     ["Dashboard", "Next Workout", "Progress Analysis", "Data Explorer"]
 )
-
 
 # ---------------------------
 # ROUTING
