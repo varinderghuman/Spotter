@@ -1,13 +1,19 @@
+import sys
+from pathlib import Path
+
+ROOT_DIR = Path(__file__).resolve().parent.parent
+sys.path.append(str(ROOT_DIR))
+
 import streamlit as st
 import pandas as pd
 
 from src.features.feature_builder import FeatureBuilder
 from src.model.recommender import WorkoutRecommender
 
-from app.pages.Dashboard import dashboard
-from app.pages.AI_Coach import ai_coach
-from app.pages.Progress_Analysis import progress_analysis
-from app.pages.Data_Explorer import data_explorer
+from app.pages.dashboard import dashboard
+from app.pages.ai_coach import ai_coach
+from app.pages.progress_analysis import progress_analysis
+from app.pages.data_explorer import data_explorer
 
 
 # ---------------------------
@@ -25,7 +31,7 @@ st.title("🏋️ Spotter AI Coach")
 # ---------------------------
 # LOAD DATA
 # ---------------------------
-df = pd.read_csv("data/processed/workouts.csv")
+df = pd.read_csv("src/data/workouts.csv")
 
 
 # ---------------------------

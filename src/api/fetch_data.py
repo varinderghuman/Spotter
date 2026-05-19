@@ -16,7 +16,7 @@ class FetchData:
         response.raise_for_status()
         
         # Save json file
-        with open("/Users/Apple/GitHub/Spotter/src/data/json_data.json", "w") as f:
+        with open("src/data/json_data.json", "w") as f:
             json.dump(response.json(), f, indent=4)
         
         return response.json()

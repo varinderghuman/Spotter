@@ -8,7 +8,7 @@ def ai_coach(df, recommender):
 
     if st.button("Generate Next Workout"):
 
-        recommendations = recommender.recommend_next_exercise()
+        recommendations = recommender.recommend()
 
         st.subheader("🔥 Recommended Focus")
 

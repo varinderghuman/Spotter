@@ -45,7 +45,7 @@ def build_dataset(data):
                 })
 
     df = pd.DataFrame(rows)
-    save_path = "/Users/Apple/GitHub/Spotter/src/data/workouts.csv"
+    save_path = "src/data/workouts.csv"
     df.to_csv(save_path, index=False)
 
     return df

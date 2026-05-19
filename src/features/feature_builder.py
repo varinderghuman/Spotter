@@ -35,7 +35,8 @@ class FeatureBuilder:
         return self.df
 
     def fatigue_features(self):
-        self.df["daily_volume"] = self.df.groupby("date")["volume"].transform("sum")
+        self.df["day"] = self.df["date"].dt.date
+        self.df["daily_volume"] = self.df.groupby("day")["volume"].transform("sum")
         self.df["fatigue"] = (
             self.df.groupby("exercise")["daily_volume"]
             .rolling(7, min_periods=1)
@@ -45,11 +46,30 @@ class FeatureBuilder:
         return self.df
 
     def build(self):
+
         self.preprocess()
         self.time_features()
         self.history_features()
         self.rolling_features()
         self.fatigue_features()
+        self.progression_features()
 
         self.df = self.df.fillna(0)
+
+        return self.df
+
+    def progression_features(self):
+
+        self.df["weight_delta"] = (
+            self.df["weight"] - self.df["prev_weight"]
+        )
+        
+        self.df["reps_delta"] = (
+            self.df["reps"] - self.df["prev_reps"]
+        )
+
+        self.df["volume_delta"] = (
+            self.df["volume"] - self.df["prev_volume"]
+        )
+
         return self.df
