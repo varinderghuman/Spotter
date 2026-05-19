@@ -1,4 +1,4 @@
-workout_id,date,body_weight,exercise,exercise_type,set_number,weight,reps,volume,total_workout_volume,duration,distance
+workout_id,date,body_weight,exercise,exercise_type,set,weight,reps,volume,total_workout_volume,duration,distance
 20160356,2026-05-15 23:00:16,80.0,Cable Curl,weight_reps,1,50.0,15.0,750.0,14130,,
 20160356,2026-05-15 23:00:16,80.0,Cable Curl,weight_reps,2,60.0,12.0,720.0,14130,,
 20160356,2026-05-15 23:00:16,80.0,Cable Curl,weight_reps,3,60.0,11.0,660.0,14130,,

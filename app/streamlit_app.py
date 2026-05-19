@@ -9,6 +9,8 @@ import pandas as pd
 
 from src.features.feature_builder import FeatureBuilder
 from src.model.recommender import WorkoutRecommender
+from src.api.fetch_data import FetchData
+from src.data.build_dataset import build_dataset
 
 from app.pages.dashboard import dashboard
 from app.pages.ai_coach import ai_coach
@@ -25,13 +27,14 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🏋️ Spotter AI Coach")
+st.title("Spotter")
 
 
 # ---------------------------
-# LOAD DATA
+# FETCH DATA
 # ---------------------------
-df = pd.read_csv("src/data/workouts.csv")
+df = FetchData().fetch_workouts()
+df = build_dataset(df)
 
 
 # ---------------------------
@@ -52,7 +55,7 @@ recommender = WorkoutRecommender(df)
 # ---------------------------
 page = st.sidebar.radio(
     "Navigation",
-    ["Dashboard", "AI Coach", "Progress Analysis", "Data Explorer"]
+    ["Dashboard", "Next Workout", "Progress Analysis", "Data Explorer"]
 )
 
 
@@ -62,7 +65,7 @@ page = st.sidebar.radio(
 if page == "Dashboard":
     dashboard(df)
 
-elif page == "AI Coach":
+elif page == "Next Workout":
     ai_coach(df, recommender)
 
 elif page == "Progress Analysis":
