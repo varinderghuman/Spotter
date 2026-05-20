@@ -1,6 +1,6 @@
 import pandas as pd
 
-def build_dataset(data):
+def build_dataset(data, exercises):
 
     workouts = data["workouts"]
     rows = []

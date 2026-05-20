@@ -1,0 +1,1008 @@
+{
+    "status": true,
+    "count": 100,
+    "current_page": 1,
+    "limit": 100,
+    "exercises": [
+        {
+            "id": "99",
+            "name": "Standing Cross-over High Reverse Fly",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/02251101-Cable-Standing-Cross-over-High-Reverse-Fly_Shoulders_small.png",
+            "equipment_id": "[\"3\"]",
+            "body_part_id": "[\"6\"]",
+            "Target_muscles_id": "[\"10\"]",
+            "Synergist_muscles_id": "[\"9\",\"19\",\"38\",\"41\",\"42\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "1607",
+            "name": "Cable Curl",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/01561101-Cable-Curl_Upper-Arms_small.png",
+            "equipment_id": "[\"3\"]",
+            "body_part_id": "[\"17\",\"5\"]",
+            "Target_muscles_id": "[\"4\"]",
+            "Synergist_muscles_id": "[\"5\",\"6\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "1651",
+            "name": "Cable Pushdown ",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/02001101-Cable-Pushdown-(with-rope-attachment)_Upper-Arms_small.png",
+            "equipment_id": "[\"3\"]",
+            "body_part_id": "[\"18\",\"5\"]",
+            "Target_muscles_id": "[\"44\"]",
+            "Synergist_muscles_id": "null",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "1787",
+            "name": "Dumbbell Lunge",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/03361101-Dumbbell-Lunge_Hips-FIX_small.png",
+            "equipment_id": "[\"4\"]",
+            "body_part_id": "[\"3\"]",
+            "Target_muscles_id": "[\"13\",\"27\"]",
+            "Synergist_muscles_id": "[\"3\",\"32\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "1868",
+            "name": "Dumbbell Standing Calf Raise",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/04171101-Dumbbell-Standing-Calf-Raise_Calf_small.png",
+            "equipment_id": "[\"4\"]",
+            "body_part_id": "[\"8\"]",
+            "Target_muscles_id": "[\"12\"]",
+            "Synergist_muscles_id": "[\"32\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "2621",
+            "name": "Cable horizontal Pallof Press",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/12021101-Cable-horizontal-Pallof-Press_waist_small.png",
+            "equipment_id": "[\"3\"]",
+            "body_part_id": "[\"12\"]",
+            "Target_muscles_id": "[\"22\"]",
+            "Synergist_muscles_id": "null",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "3439",
+            "name": "Run on Treadmill ",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/21971101-Run-on-Treadmill-(female)_Cardio_small.png",
+            "equipment_id": "[\"6\"]",
+            "body_part_id": "[\"10\"]",
+            "Target_muscles_id": "[\"1\",\"2\",\"3\",\"12\",\"13\",\"17\",\"18\",\"22\",\"23\",\"27\",\"29\",\"32\",\"36\"]",
+            "Synergist_muscles_id": "null",
+            "exercise_type": "distance_duration"
+        },
+        {
+            "id": "376",
+            "name": "Romanian Deadlift",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/14591101-Dumbbell-Romanian-Deadlift_Hips_small.png",
+            "equipment_id": "[\"4\"]",
+            "body_part_id": "[\"3\"]",
+            "Target_muscles_id": "[\"13\",\"17\"]",
+            "Synergist_muscles_id": "[\"27\",\"32\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "1883",
+            "name": "Dumbbell Stiff Leg Deadlift",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/04321101-Dumbbell-Stiff-Leg-Deadlift_Waist_small.png",
+            "equipment_id": "[\"4\"]",
+            "body_part_id": "[\"3\"]",
+            "Target_muscles_id": "[\"11\",\"13\"]",
+            "Synergist_muscles_id": "[\"17\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "2624",
+            "name": "Cable twist ",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/12071101-Cable-twist-(down-up)_waist_small.png",
+            "equipment_id": "[\"3\"]",
+            "body_part_id": "[\"12\"]",
+            "Target_muscles_id": "[\"22\"]",
+            "Synergist_muscles_id": "[\"2\",\"3\",\"14\",\"18\",\"23\",\"36\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "469843",
+            "name": "Rear Delt Reverse Fly (Cable)",
+            "image_name": "",
+            "equipment_id": "",
+            "body_part_id": "",
+            "Target_muscles_id": "",
+            "Synergist_muscles_id": "",
+            "exercise_type": ""
+        },
+        {
+            "id": "469844",
+            "name": "Cable Core Pallof Press",
+            "image_name": "",
+            "equipment_id": "",
+            "body_part_id": "",
+            "Target_muscles_id": "",
+            "Synergist_muscles_id": "",
+            "exercise_type": ""
+        },
+        {
+            "id": "469845",
+            "name": "Single Arm Tricep Extension (Dumbbell)",
+            "image_name": "",
+            "equipment_id": "",
+            "body_part_id": "",
+            "Target_muscles_id": "",
+            "Synergist_muscles_id": "",
+            "exercise_type": ""
+        },
+        {
+            "id": "146",
+            "name": "Lunge",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/03361101-Dumbbell-Lunge_Hips_small.png",
+            "equipment_id": "[\"4\"]",
+            "body_part_id": "[\"3\"]",
+            "Target_muscles_id": "[\"13\",\"27\"]",
+            "Synergist_muscles_id": "[\"3\",\"32\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "1745",
+            "name": "Dumbbell Biceps Curl",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/02941101-Dumbbell-Biceps-Curl_Upper-Arms_small.png",
+            "equipment_id": "[\"4\"]",
+            "body_part_id": "[\"17\",\"5\"]",
+            "Target_muscles_id": "[\"4\"]",
+            "Synergist_muscles_id": "[\"5\",\"6\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "2113",
+            "name": "Push-up",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/06621101-Push-up-m_Chest-FIX_small.png",
+            "equipment_id": "[\"2\"]",
+            "body_part_id": "[\"2\"]",
+            "Target_muscles_id": "[\"25\"]",
+            "Synergist_muscles_id": "[\"8\",\"24\",\"44\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "1785",
+            "name": "Dumbbell Lateral Raise",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/03341101-Dumbbell-Lateral-Raise_shoulder-AFIX_small.png",
+            "equipment_id": "[\"4\"]",
+            "body_part_id": "[\"6\"]",
+            "Target_muscles_id": "[\"9\"]",
+            "Synergist_muscles_id": "[\"8\",\"31\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "1852",
+            "name": "Dumbbell Seated Palms Up Wrist Curl",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/04011101-Dumbbell-Seated-Palms-Up-Wrist-Curl_Forearms_small.png",
+            "equipment_id": "[\"4\"]",
+            "body_part_id": "[\"7\"]",
+            "Target_muscles_id": "[\"46\"]",
+            "Synergist_muscles_id": "null",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "1858",
+            "name": "Dumbbell Side Bend",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/04071101-Dumbbell-Side-Bend_Waist_small.png",
+            "equipment_id": "[\"4\"]",
+            "body_part_id": "[\"12\"]",
+            "Target_muscles_id": "[\"22\"]",
+            "Synergist_muscles_id": "null",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "1763",
+            "name": "Dumbbell Hammer Curl ",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/03121101-Dumbbell-Hammer-Curl-II_Upper-Arms_small.png",
+            "equipment_id": "[\"4\"]",
+            "body_part_id": "[\"17\",\"5\"]",
+            "Target_muscles_id": "[\"6\"]",
+            "Synergist_muscles_id": "[\"4\",\"5\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "469847",
+            "name": "Single Arm Cable Crossover",
+            "image_name": "",
+            "equipment_id": "",
+            "body_part_id": "",
+            "Target_muscles_id": "",
+            "Synergist_muscles_id": "",
+            "exercise_type": ""
+        },
+        {
+            "id": "469846",
+            "name": "Sumo Squat (Kettlebell)",
+            "image_name": "",
+            "equipment_id": "",
+            "body_part_id": "",
+            "Target_muscles_id": "",
+            "Synergist_muscles_id": "",
+            "exercise_type": ""
+        },
+        {
+            "id": "1748",
+            "name": "Dumbbell Concentration Curl",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/02971101-Dumbbell-Concentration-Curl_Upper-Arms_small.png",
+            "equipment_id": "[\"4\"]",
+            "body_part_id": "[\"17\",\"5\"]",
+            "Target_muscles_id": "[\"5\"]",
+            "Synergist_muscles_id": "[\"4\",\"6\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "1766",
+            "name": "Dumbbell Incline Biceps Curl",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/03151101-Dumbbell-Incline-Biceps-Curl_Upper-Arms_small.png",
+            "equipment_id": "[\"4\"]",
+            "body_part_id": "[\"17\",\"5\"]",
+            "Target_muscles_id": "[\"4\"]",
+            "Synergist_muscles_id": "[\"5\",\"6\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "469849",
+            "name": "Behind The Back Curl (Cable)",
+            "image_name": "",
+            "equipment_id": "",
+            "body_part_id": "",
+            "Target_muscles_id": "",
+            "Synergist_muscles_id": "",
+            "exercise_type": ""
+        },
+        {
+            "id": "1853",
+            "name": "Dumbbell Seated Preacher Curl",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/04021101-Dumbbell-Seated-Preacher-Curl_Upper-Arms_small.png",
+            "equipment_id": "[\"4\"]",
+            "body_part_id": "[\"17\",\"5\"]",
+            "Target_muscles_id": "[\"5\"]",
+            "Synergist_muscles_id": "[\"4\",\"6\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "469848",
+            "name": "Seated Cable Row - V Grip (Cable)",
+            "image_name": "",
+            "equipment_id": "",
+            "body_part_id": "",
+            "Target_muscles_id": "",
+            "Synergist_muscles_id": "",
+            "exercise_type": ""
+        },
+        {
+            "id": "379",
+            "name": "Lever Incline Chest Press",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/14791101-Lever-Incline-Chest-Press_Chest_small.png",
+            "equipment_id": "[\"6\"]",
+            "body_part_id": "[\"2\"]",
+            "Target_muscles_id": "[\"24\"]",
+            "Synergist_muscles_id": "[\"8\",\"44\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "2036",
+            "name": "Lever Leg Extension",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/05851101-Lever-Leg-Extension_Thighs_small.png",
+            "equipment_id": "[\"6\"]",
+            "body_part_id": "[\"19\",\"1\"]",
+            "Target_muscles_id": "[\"27\"]",
+            "Synergist_muscles_id": "null",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "1877",
+            "name": "Dumbbell Standing Overhead Press",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/04261101-Dumbbell-Standing-Overhead-Press_shoulder_small.png",
+            "equipment_id": "[\"4\"]",
+            "body_part_id": "[\"6\"]",
+            "Target_muscles_id": "[\"8\"]",
+            "Synergist_muscles_id": "[\"9\",\"24\",\"31\",\"44\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "3854",
+            "name": "Cable Lateral Pulldown with V-bar",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/26161101-Cable-Lateral-Pulldown-with-V-bar_Back_small.png",
+            "equipment_id": "[\"3\"]",
+            "body_part_id": "[\"4\"]",
+            "Target_muscles_id": "[\"20\"]",
+            "Synergist_muscles_id": "[\"5\",\"6\",\"10\",\"25\",\"37\",\"41\",\"42\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "1601",
+            "name": "Cable Bar Lateral Pulldown",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/01501101-Cable-Bar-Lateral-Pulldown_Back_small.png",
+            "equipment_id": "[\"3\"]",
+            "body_part_id": "[\"4\"]",
+            "Target_muscles_id": "[\"20\"]",
+            "Synergist_muscles_id": "[\"5\",\"6\",\"10\",\"19\",\"37\",\"38\",\"41\",\"42\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "1652",
+            "name": "Cable Pushdown",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/02011101-Cable-Pushdown_Upper-Arms_small.png",
+            "equipment_id": "[\"3\"]",
+            "body_part_id": "[\"18\",\"5\"]",
+            "Target_muscles_id": "[\"44\"]",
+            "Synergist_muscles_id": "null",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "3507",
+            "name": "Lever Seated Leg Press",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/22671101-Lever-Seated-Leg-Press_Thighs_small.png",
+            "equipment_id": "[\"6\"]",
+            "body_part_id": "[\"19\",\"1\"]",
+            "Target_muscles_id": "[\"13\",\"27\"]",
+            "Synergist_muscles_id": "[\"3\",\"32\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "1832",
+            "name": "Dumbbell Rear Lunge",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/03811101-Dumbbell-Rear-Lunge_Thighs_small.png",
+            "equipment_id": "[\"4\"]",
+            "body_part_id": "[\"19\",\"1\"]",
+            "Target_muscles_id": "[\"13\",\"27\"]",
+            "Synergist_muscles_id": "[\"3\",\"32\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "469851",
+            "name": "Hiking",
+            "image_name": "",
+            "equipment_id": "",
+            "body_part_id": "",
+            "Target_muscles_id": "",
+            "Synergist_muscles_id": "",
+            "exercise_type": "distance_duration"
+        },
+        {
+            "id": "469850",
+            "name": "Walking",
+            "image_name": "",
+            "equipment_id": "",
+            "body_part_id": "",
+            "Target_muscles_id": "",
+            "Synergist_muscles_id": "",
+            "exercise_type": "distance_duration"
+        },
+        {
+            "id": "1572",
+            "name": "Barbell Upright Row ",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/01211101-Barbell-Upright-Row-(without-weight)_Shoulders_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"6\"]",
+            "Target_muscles_id": "[\"9\"]",
+            "Synergist_muscles_id": "[\"4\",\"5\",\"6\",\"8\",\"19\",\"31\",\"38\",\"41\",\"42\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": "469852",
+            "name": "Triceps Kickback (Cable)",
+            "image_name": "",
+            "equipment_id": "",
+            "body_part_id": "",
+            "Target_muscles_id": "",
+            "Synergist_muscles_id": "",
+            "exercise_type": ""
+        },
+        {
+            "id": null,
+            "name": "Bench Front Squat",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00241101-Barbell-Bench-Front-Squat_thighs_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"19\",\"1\"]",
+            "Target_muscles_id": "[\"27\"]",
+            "Synergist_muscles_id": "[\"3\",\"32\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Bench Press",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00251101-Barbell-Bench-Press_Chest-FIX_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"2\"]",
+            "Target_muscles_id": "[\"25\"]",
+            "Synergist_muscles_id": "[\"8\",\"24\",\"44\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Bench Squat",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00261101-Barbell-Bench-Squat_Hips_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"3\"]",
+            "Target_muscles_id": "[\"27\"]",
+            "Synergist_muscles_id": "[\"3\",\"32\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Bent Over Row",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00271101-Barbell-Bent-Over-Row_Back-FIX_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"4\"]",
+            "Target_muscles_id": "[\"19\",\"20\",\"37\",\"38\",\"42\",\"43\",\"11\"]",
+            "Synergist_muscles_id": "[\"5\",\"6\",\"10\",\"4\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Close-Grip Bench Press",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00301101-Barbell-Close-Grip-Bench-Press_Upper-Arms_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"18\",\"5\"]",
+            "Target_muscles_id": "[\"44\"]",
+            "Synergist_muscles_id": "[\"8\",\"24\",\"25\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Barbell Curl",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00311101-Barbell-Curl_Upper-Arms-FIX_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"17\",\"5\"]",
+            "Target_muscles_id": "[\"4\"]",
+            "Synergist_muscles_id": "[\"5\",\"6\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Deadlift",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00321101-Barbell-Deadlift_Hips-FIX_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"3\"]",
+            "Target_muscles_id": "[\"11\",\"13\",\"17\"]",
+            "Synergist_muscles_id": "[\"11\",\"27\",\"32\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Decline Bench Press",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00331101-Barbell-Decline-Bench-Press_Chest-FIX_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"2\"]",
+            "Target_muscles_id": "[\"25\"]",
+            "Synergist_muscles_id": "[\"8\",\"24\",\"44\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Decline Bent Arm Pullover",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00341101-Barbell-Decline-Bent-Arm-Pullover_Back_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"4\"]",
+            "Target_muscles_id": "[\"20\"]",
+            "Synergist_muscles_id": "[\"21\",\"25\",\"44\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Decline Close Grip To Skull Press",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00351101-Barbell-Decline-Close-Grip-To-Skull-Press_Upper-Arms_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"18\",\"5\"]",
+            "Target_muscles_id": "[\"44\"]",
+            "Synergist_muscles_id": "null",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Decline Wide-grip Press",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00361101-Barbell-Decline-Wide-grip-Press_Chest_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"2\"]",
+            "Target_muscles_id": "[\"25\"]",
+            "Synergist_muscles_id": "[\"8\",\"24\",\"44\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Decline wide-grip pullover",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00371101-Barbell-Decline-wide-grip-pullover_Back_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"4\"]",
+            "Target_muscles_id": "[\"20\"]",
+            "Synergist_muscles_id": "[\"10\",\"21\",\"25\",\"37\",\"44\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Barbell Drag Curl",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00381101-Barbell-Drag-Curl_Upper-Arms_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"17\",\"5\"]",
+            "Target_muscles_id": "[\"4\"]",
+            "Synergist_muscles_id": "[\"5\",\"6\",\"8\",\"10\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Front Chest Squat",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00391101-Barbell-Front-Chest-Squat_Thighs_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"19\",\"1\"]",
+            "Target_muscles_id": "[\"13\",\"27\"]",
+            "Synergist_muscles_id": "[\"3\",\"32\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Front Raise and Pullover",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00401101-Barbell-Front-Raise-and-Pullover_Chest_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"2\"]",
+            "Target_muscles_id": "[\"24\",\"25\"]",
+            "Synergist_muscles_id": "[\"8\",\"9\",\"20\",\"31\",\"37\",\"44\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Front Raise",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00411101-Barbell-Front-Raise_Shoulders_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"6\"]",
+            "Target_muscles_id": "[\"8\"]",
+            "Synergist_muscles_id": "[\"9\",\"24\",\"31\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Front Squat",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00421101-Barbell-Front-Squat_Hips-FIX_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"3\"]",
+            "Target_muscles_id": "[\"13\",\"27\"]",
+            "Synergist_muscles_id": "[\"3\",\"32\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Full Squat",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00431101-Barbell-Full-Squat_Thighs_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"19\"]",
+            "Target_muscles_id": "[\"13\",\"27\"]",
+            "Synergist_muscles_id": "[\"32\",\"17\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Good Morning",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00441101-Barbell-Good-Morning_Thighs-AFIX_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"20\",\"1\"]",
+            "Target_muscles_id": "[\"17\"]",
+            "Synergist_muscles_id": "[\"3\",\"13\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Incline Bench Press",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00471101-Barbell-Incline-Bench-Press_Chest_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"2\"]",
+            "Target_muscles_id": "[\"24\",\"25\"]",
+            "Synergist_muscles_id": "[\"8\",\"44\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Incline Reverse-grip Press",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00481101-Barbell-Incline-Reverse-grip-Press_Triceps_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"18\",\"5\"]",
+            "Target_muscles_id": "[\"44\"]",
+            "Synergist_muscles_id": "[\"8\",\"24\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Incline Row",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00491101-Barbell-Incline-Row_Back_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"4\"]",
+            "Target_muscles_id": "[\"19\",\"20\",\"38\",\"39\",\"42\",\"43\"]",
+            "Synergist_muscles_id": "[\"5\",\"6\",\"25\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Lunge",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00541101-Barbell-Lunge_Thighs_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"19\",\"1\"]",
+            "Target_muscles_id": "[\"13\",\"27\"]",
+            "Synergist_muscles_id": "[\"3\",\"32\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Lying Close-grip Press",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00551101-Barbell-Lying-Close-grip-Press_Triceps_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"18\",\"5\"]",
+            "Target_muscles_id": "[\"44\"]",
+            "Synergist_muscles_id": "[\"8\",\"25\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Lying Close-grip Triceps Extension",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00561101-Barbell-Lying-Close-grip-Triceps-Extension_Upper-Arms_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"18\",\"5\"]",
+            "Target_muscles_id": "[\"44\"]",
+            "Synergist_muscles_id": "null",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Lying extension",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00571101-Barbell-Lying-extension_Upper-arms_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"18\",\"5\"]",
+            "Target_muscles_id": "[\"44\"]",
+            "Synergist_muscles_id": "null",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Lying Lifting",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00581101-Barbell-Lying-Lifting-(on-hip)_Hips_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"3\"]",
+            "Target_muscles_id": "[\"13\"]",
+            "Synergist_muscles_id": "[\"12\",\"29\",\"32\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "One Leg Squat",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00681101-Barbell-One-Leg-Squat_thighs_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"19\",\"1\"]",
+            "Target_muscles_id": "[\"27\"]",
+            "Synergist_muscles_id": "[\"3\",\"13\",\"32\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Preacher Curl",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00701101-Barbell-Preacher-Curl_Upper-Arms-AFIX_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"17\",\"5\"]",
+            "Target_muscles_id": "[\"5\"]",
+            "Synergist_muscles_id": "[\"4\",\"6\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Rear Delt Row",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00761101-Barbell-Rear-Delt-Row_shoulder_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"6\"]",
+            "Target_muscles_id": "[\"10\"]",
+            "Synergist_muscles_id": "[\"5\",\"19\",\"37\",\"38\",\"41\",\"42\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Rear Lunge",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00781101-Barbell-Rear-Lunge_Thighs_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"19\",\"1\"]",
+            "Target_muscles_id": "[\"13\",\"27\"]",
+            "Synergist_muscles_id": "[\"3\",\"32\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Revers Wrist Curl",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00791101-Barbell-Revers-Wrist-Curl-II_Forearms_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"7\"]",
+            "Target_muscles_id": "[\"45\"]",
+            "Synergist_muscles_id": "null",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Reverse Curl",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00801101-Barbell-Reverse-Curl_Forearm_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"7\"]",
+            "Target_muscles_id": "[\"6\"]",
+            "Synergist_muscles_id": "[\"4\",\"5\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Reverse Preacher Curl",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00811101-Barbell-Reverse-Preacher-Curl_Forearm_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"7\"]",
+            "Target_muscles_id": "[\"6\"]",
+            "Synergist_muscles_id": "[\"4\",\"5\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Reverse Wrist Curl",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00821101-Barbell-Reverse-Wrist-Curl_Forearm_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"7\"]",
+            "Target_muscles_id": "[\"45\"]",
+            "Synergist_muscles_id": "null",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Romanian Deadlift",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00851101-Barbell-Romanian-Deadlift_Hips_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"3\"]",
+            "Target_muscles_id": "[\"11\",\"17\"]",
+            "Synergist_muscles_id": "[\"17\",\"27\",\"32\",\"13\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Seated Behind Head Military Press",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00861101-Barbell-Seated-Behind-Head-Military-Press_Shoulders_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"6\"]",
+            "Target_muscles_id": "[\"8\"]",
+            "Synergist_muscles_id": "[\"9\",\"31\",\"44\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Seated Calf Raise",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00881101-Barbell-Seated-Calf-Raise_Calves_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"8\"]",
+            "Target_muscles_id": "[\"12\"]",
+            "Synergist_muscles_id": "[\"32\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Seated Close-grip Concentration Curl",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00891101-Barbell-Seated-Close-grip-Concentration-Curl_Upper-Arms_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"17\",\"5\"]",
+            "Target_muscles_id": "[\"5\"]",
+            "Synergist_muscles_id": "[\"4\",\"6\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Seated Good morning",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00901101-Barbell-Seated-Good-morning_Hips_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"3\"]",
+            "Target_muscles_id": "[\"13\"]",
+            "Synergist_muscles_id": "[\"17\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Seated Overhead Triceps Extension",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00921101-Barbell-Seated-Overhead-Triceps-Extension_Upper-Arms_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"18\",\"5\"]",
+            "Target_muscles_id": "[\"44\"]",
+            "Synergist_muscles_id": "null",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Shrug",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00951101-Barbell-Shrug_Back_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"4\"]",
+            "Target_muscles_id": "[\"43\"]",
+            "Synergist_muscles_id": "[\"21\",\"42\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Side Split Squat",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/00971101-Barbell-Side-Split-Squat-II_Thighs_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"19\",\"1\"]",
+            "Target_muscles_id": "[\"13\",\"27\"]",
+            "Synergist_muscles_id": "[\"3\",\"32\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Standing Leg Calf Raise",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/01081101-Barbell-Standing-Leg-Calf-Raise_Calf_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"8\"]",
+            "Target_muscles_id": "[\"12\"]",
+            "Synergist_muscles_id": "[\"32\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Standing Overhead Triceps Extension",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/01091101-Barbell-Standing-Overhead-Triceps-Extension_Upper-Arms_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"18\",\"5\"]",
+            "Target_muscles_id": "[\"44\"]",
+            "Synergist_muscles_id": "null",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Standing Reverse Grip Curl",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/01101101-Barbell-Standing-Reverse-Grip-Curl_Forearms_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"7\"]",
+            "Target_muscles_id": "[\"6\"]",
+            "Synergist_muscles_id": "[\"4\",\"5\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Standing Wide-grip Curl",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/01131101-Barbell-Standing-Wide-grip-Curl_Upper-Arms_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"17\",\"5\"]",
+            "Target_muscles_id": "[\"4\",\"5\"]",
+            "Synergist_muscles_id": "[\"6\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Step-up",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/01141101-Barbell-Step-up_Hips_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"19\",\"1\"]",
+            "Target_muscles_id": "[\"13\",\"27\"]",
+            "Synergist_muscles_id": "[\"3\",\"32\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Straight Leg Deadlift",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/01161101-Barbell-Straight-Leg-Deadlift_Thighs-AFIX_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"20\",\"1\"]",
+            "Target_muscles_id": "[\"11\",\"17\"]",
+            "Synergist_muscles_id": "[\"3\",\"13\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Sumo Deadlift",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/01171101-Barbell-Sumo-Deadlift_Hips_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"3\"]",
+            "Target_muscles_id": "[\"27\",\"13\",\"17\"]",
+            "Synergist_muscles_id": "[\"3\",\"32\",\"36\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Reverse Grip Bent over Row",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/01181101-Barbell-Reverse-Grip-Bent-over-Row_Back-FIX_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"4\"]",
+            "Target_muscles_id": "[\"19\",\"20\",\"37\",\"38\",\"41\",\"42\"]",
+            "Synergist_muscles_id": "[\"4\",\"5\",\"6\",\"10\",\"25\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Upright Row",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/01201101-Barbell-Upright-Row_shoulder_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"6\"]",
+            "Target_muscles_id": "[\"9\"]",
+            "Synergist_muscles_id": "[\"4\",\"5\",\"6\",\"8\",\"19\",\"31\",\"38\",\"41\",\"42\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Upright Row",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/01211101-Barbell-Upright-Row-(without-weight)_Shoulders_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"6\"]",
+            "Target_muscles_id": "[\"9\"]",
+            "Synergist_muscles_id": "[\"4\",\"5\",\"6\",\"8\",\"19\",\"31\",\"38\",\"41\",\"42\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Wrist Curl",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/01251101-Barbell-Wrist-Curl-II_Forearms_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"7\"]",
+            "Target_muscles_id": "[\"46\"]",
+            "Synergist_muscles_id": "null",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Wrist Curl",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/01261101-Barbell-Wrist-Curl_Forearm_small.png",
+            "equipment_id": "[\"1\"]",
+            "body_part_id": "[\"7\"]",
+            "Target_muscles_id": "[\"46\"]",
+            "Synergist_muscles_id": "null",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Bench Dip",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/01291101-Bench-Dip-(knees-bent)_Upper-Arms_small.png",
+            "equipment_id": "[\"2\"]",
+            "body_part_id": "[\"18\",\"5\"]",
+            "Target_muscles_id": "[\"44\"]",
+            "Synergist_muscles_id": "[\"8\",\"20\",\"21\",\"25\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Alternate Triceps Extension",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/01491101-Cable-Alternate-Triceps-Extension_Upper-Arms_small.png",
+            "equipment_id": "[\"3\"]",
+            "body_part_id": "[\"18\",\"5\"]",
+            "Target_muscles_id": "[\"44\"]",
+            "Synergist_muscles_id": "null",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Bar Lateral Pulldown",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/01501101-Cable-Bar-Lateral-Pulldown_Back_small.png",
+            "equipment_id": "[\"3\"]",
+            "body_part_id": "[\"4\"]",
+            "Target_muscles_id": "[\"20\"]",
+            "Synergist_muscles_id": "[\"5\",\"6\",\"10\",\"19\",\"37\",\"38\",\"41\",\"42\",\"4\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Cable Bench Press",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/01511101-Cable-Bench-Press_Chest_small.png",
+            "equipment_id": "[\"3\"]",
+            "body_part_id": "[\"2\"]",
+            "Target_muscles_id": "[\"24\",\"25\"]",
+            "Synergist_muscles_id": "[\"8\",\"44\"]",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Concentration Extension",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/01521101-Cable-Concentration-Extension-(on-knee)_Upper-Arms_small.png",
+            "equipment_id": "[\"3\"]",
+            "body_part_id": "[\"18\",\"5\"]",
+            "Target_muscles_id": "[\"44\"]",
+            "Synergist_muscles_id": "null",
+            "exercise_type": "weight_reps"
+        },
+        {
+            "id": null,
+            "name": "Cross-over Lateral Pulldown",
+            "image_name": "https://apilyfta.com/static/GymvisualPNG/01531101-Cable-Cross-over-Lateral-Pulldown_Back_small.png",
+            "equipment_id": "[\"3\"]",
+            "body_part_id": "[\"4\"]",
+            "Target_muscles_id": "[\"20\"]",
+            "Synergist_muscles_id": "[\"4\",\"5\",\"6\",\"10\",\"19\",\"37\",\"38\",\"41\",\"42\"]",
+            "exercise_type": "weight_reps"
+        }
+    ]
+}

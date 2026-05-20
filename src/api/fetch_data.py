@@ -20,14 +20,3 @@ class FetchData:
             json.dump(response.json(), f, indent=4)
         
         return response.json()
-
-    def fetch_exercises(self):
-        url = "https://my.lyfta.app/api/v1/exercises?limit=100"
-        response = requests.get(url, headers=self.headers)
-        response.raise_for_status()
-        
-        # Save json file
-        with open("src/data/json_exercises.json", "w") as f:
-            json.dump(response.json(), f, indent=4)
-        
-        return response.json()
