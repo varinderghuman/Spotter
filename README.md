@@ -1,10 +1,10 @@
-# 🏋️ Spotter — AI Workout Intelligence System
+# Spotter — Workout Intelligence System
 
-> A personalized AI fitness coach that analyzes workout history and generates adaptive training recommendations using data science and machine learning.
+> A personalized fitness coach that analyzes workout history and generates adaptive training recommendations using data science and machine learning.
 
 ---
 
-## 🚀 Overview
+## Overview
 
 **Spotter** is an end-to-end data science system that transforms raw workout logs into intelligent training recommendations.
 
@@ -15,39 +15,38 @@ Spotter was designed to demonstrate:
 - ETL and data pipeline engineering
 - Feature engineering for behavioral/time-series data
 - Recommendation systems
-- Explainable AI outputs
 - Interactive ML applications with Streamlit
 
 ---
 
-# 🧠 Core Features
+# Core Features
 
-## 📊 Training Analytics Dashboard
+## Training Analytics Dashboard
 - Workout frequency analysis
 - Volume trends over time
 - Exercise-level progression tracking
 - Strength and workload visualization
 
-## 🤖 AI Workout Coach
+## Personal Trainer
 - Generates next workout recommendations
 - Suggests progressive overload adjustments
 - Estimates fatigue and recovery readiness
 - Provides explainable recommendation reasoning
 
-## 📈 Progress Analysis
+## Progress Analysis
 - Exercise-specific strength trends
 - Rolling workload analysis
 - Performance plateau detection
 - Historical training insights
 
-## 📂 Data Explorer
+## Data Explorer
 - Interactive raw dataset inspection
 - Exercise filtering and analysis
 - Transparent access to engineered features
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
 ```text
 Lyfta API
@@ -65,7 +64,7 @@ Streamlit Dashboard
 
 ---
 
-# ⚙️ Tech Stack
+# Tech Stack
 
 ## Core
 - Python
@@ -85,7 +84,7 @@ Streamlit Dashboard
 
 ---
 
-# 🧪 Machine Learning & Feature Engineering
+# Machine Learning & Feature Engineering
 
 Spotter uses a hybrid recommendation architecture combining rule-based decision systems with machine learning.
 
@@ -114,7 +113,7 @@ Spotter uses a hybrid recommendation architecture combining rule-based decision 
 
 ---
 
-# 🤖 Recommendation System
+# Recommendation System
 
 The recommendation engine evaluates:
 
@@ -131,7 +130,7 @@ The system then generates:
 
 ---
 
-# 📊 Example Recommendation Output
+# Example Recommendation Output
 
 ```text
 Next Workout Recommendation:
@@ -151,7 +150,7 @@ Reasoning:
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```text
 Spotter/
@@ -196,7 +195,7 @@ Spotter/
 
 ---
 
-# 🚀 Installation
+# Installation
 
 ## Clone repository
 
@@ -233,7 +232,7 @@ streamlit run app/streamlit_app.py
 
 ---
 
-# 🔐 Environment Variables
+# Environment Variables
 
 | Variable | Description |
 |---|---|
@@ -241,19 +240,18 @@ streamlit run app/streamlit_app.py
 
 ---
 
-# 📈 Future Improvements
+# Future Improvements
 
 - Conversational AI gym coach
 - LLM-powered workout explanations
 - Muscle fatigue heatmaps
 - Workout PDF export
 - Wearable integration
-- Injury risk prediction
 - Personalized recovery optimization
 
 ---
 
-# 🧠 What This Project Demonstrates
+# What This Project Demonstrates
 
 - End-to-end data pipeline engineering
 - Real-world API integration
@@ -266,24 +264,19 @@ streamlit run app/streamlit_app.py
 
 ---
 
-# 👤 Author
+# Author
 
-Built by **[Your Name]**
+Built by **Varinder Singh**
 
 Focus areas:
 - Data Science
 - Machine Learning Systems
-- Applied AI
 - Analytics Engineering
 
 ---
 
-# ⭐ Acknowledgements
+# Acknowledgements
 
-Workout data sourced through the :contentReference[oaicite:1]{index=1} API.
+Workout data sourced through the Lyfta API.
 
 ---
-
-# 📜 License
-
-MIT License
