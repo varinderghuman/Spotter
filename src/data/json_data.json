@@ -1,11 +1,321 @@
 {
     "status": true,
-    "count": 27,
-    "total_records": 27,
+    "count": 28,
+    "total_records": 28,
     "total_pages": 1,
     "current_page": 1,
     "limit": 100,
     "workouts": [
+        {
+            "id": 20435559,
+            "title": "Afternoon session",
+            "body_weight": 80,
+            "workout_perform_date": "2026-05-19 19:07:39",
+            "total_volume": 15370,
+            "totalLiftedWeight": 15370,
+            "user": {
+                "username": "Varinder Singh"
+            },
+            "exercises": [
+                {
+                    "exercise_id": 3439,
+                    "excercise_name": "Run on Treadmill",
+                    "exercise_type": "distance_duration",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/21971101-Run-on-Treadmill-(female)_Cardio_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": null,
+                            "weight": "",
+                            "reps": "",
+                            "rir": "",
+                            "duration": "10:00",
+                            "distance": "1.14",
+                            "set_type_id": 0,
+                            "is_completed": true,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": 1607,
+                    "excercise_name": "Cable Curl",
+                    "exercise_type": "weight_reps",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/01561101-Cable-Curl_Upper-Arms_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "389338576",
+                            "weight": "60.000",
+                            "reps": "15",
+                            "rir": "",
+                            "duration": "",
+                            "distance": "",
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "3,4",
+                            "record_level": "1,3",
+                            "record_value": "900,15"
+                        },
+                        {
+                            "id": "389338577",
+                            "weight": "70.000",
+                            "reps": "12",
+                            "rir": "",
+                            "duration": "",
+                            "distance": "",
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,2,3",
+                            "record_level": "1,1,2",
+                            "record_value": "98,70.000,840"
+                        },
+                        {
+                            "id": "389338578",
+                            "weight": "70.000",
+                            "reps": "10",
+                            "rir": "",
+                            "duration": "",
+                            "distance": "",
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,2,3",
+                            "record_level": "2,2,3",
+                            "record_value": "93,70.000,700"
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": 1868,
+                    "excercise_name": "Dumbbell Standing Calf Raise",
+                    "exercise_type": "db_2_simultaneous",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/04171101-Dumbbell-Standing-Calf-Raise_Calf_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "389338579",
+                            "weight": "25.000",
+                            "reps": "35",
+                            "rir": "",
+                            "duration": "",
+                            "distance": "",
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "389338580",
+                            "weight": "25.000",
+                            "reps": "30",
+                            "rir": "",
+                            "duration": "",
+                            "distance": "",
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "389338581",
+                            "weight": "25.000",
+                            "reps": "30",
+                            "rir": "",
+                            "duration": "",
+                            "distance": "",
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": 1651,
+                    "excercise_name": "Cable Pushdown",
+                    "exercise_type": "weight_reps",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/02001101-Cable-Pushdown-(with-rope-attachment)_Upper-Arms_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "389338582",
+                            "weight": "80.000",
+                            "reps": "15",
+                            "rir": "",
+                            "duration": "",
+                            "distance": "",
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,3",
+                            "record_level": "1,1",
+                            "record_value": "120,1200"
+                        },
+                        {
+                            "id": "389338583",
+                            "weight": "80.000",
+                            "reps": "15",
+                            "rir": "",
+                            "duration": "",
+                            "distance": "",
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,3",
+                            "record_level": "2,2",
+                            "record_value": "120,1200"
+                        },
+                        {
+                            "id": "389338584",
+                            "weight": "80.000",
+                            "reps": "15",
+                            "rir": "",
+                            "duration": "",
+                            "distance": "",
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,3",
+                            "record_level": "3,3",
+                            "record_value": "120,1200"
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": 2621,
+                    "excercise_name": "Cable horizontal Pallof Press",
+                    "exercise_type": "weight_reps",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/12021101-Cable-horizontal-Pallof-Press_waist_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "389338585",
+                            "weight": "70.000",
+                            "reps": "12",
+                            "rir": "",
+                            "duration": "",
+                            "distance": "",
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,2",
+                            "record_level": "1,1",
+                            "record_value": "98,70.000"
+                        },
+                        {
+                            "id": "389338586",
+                            "weight": "70.000",
+                            "reps": "12",
+                            "rir": "",
+                            "duration": "",
+                            "distance": "",
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,2",
+                            "record_level": "2,2",
+                            "record_value": "98,70.000"
+                        },
+                        {
+                            "id": "389338587",
+                            "weight": "70.000",
+                            "reps": "10",
+                            "rir": "",
+                            "duration": "",
+                            "distance": "",
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1,2",
+                            "record_level": "3,3",
+                            "record_value": "93,70.000"
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": 99,
+                    "excercise_name": "Standing Cross-over High Reverse Fly",
+                    "exercise_type": "weight_reps",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/02251101-Cable-Standing-Cross-over-High-Reverse-Fly_Shoulders_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "389338588",
+                            "weight": "20.000",
+                            "reps": "10",
+                            "rir": "",
+                            "duration": "",
+                            "distance": "",
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": "1",
+                            "record_level": "1",
+                            "record_value": "27"
+                        },
+                        {
+                            "id": "389338589",
+                            "weight": "20.000",
+                            "reps": "10",
+                            "rir": "",
+                            "duration": "",
+                            "distance": "",
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                },
+                {
+                    "exercise_id": 1787,
+                    "excercise_name": "Dumbbell Lunge",
+                    "exercise_type": "db_2_alt_legs",
+                    "exercise_image": "https://apilyfta.com/static/GymvisualPNG/03361101-Dumbbell-Lunge_Hips-FIX_small.png",
+                    "exercise_rest_time": 0,
+                    "sets": [
+                        {
+                            "id": "389338590",
+                            "weight": "25.000",
+                            "reps": "12",
+                            "rir": "",
+                            "duration": "",
+                            "distance": "",
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "389338591",
+                            "weight": "25.000",
+                            "reps": "12",
+                            "rir": "",
+                            "duration": "",
+                            "distance": "",
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        },
+                        {
+                            "id": "389338592",
+                            "weight": "25.000",
+                            "reps": "12",
+                            "rir": "",
+                            "duration": "",
+                            "distance": "",
+                            "set_type_id": "0",
+                            "is_completed": false,
+                            "record_type": null,
+                            "record_level": null,
+                            "record_value": null
+                        }
+                    ]
+                }
+            ]
+        },
         {
             "id": 20160356,
             "title": "Evening session",

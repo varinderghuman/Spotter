@@ -30,10 +30,10 @@ st.set_page_config(
 st.title("Spotter")
 
 
-# ---------------------------
 # FETCH DATA
 # ---------------------------
 df = FetchData().fetch_workouts()
+exercises_df = FetchData().fetch_exercises()
 df = build_dataset(df)
 
 
